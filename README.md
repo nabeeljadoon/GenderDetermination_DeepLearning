@@ -59,7 +59,7 @@ This project explores **gender classification** using **deep learning techniques
 - Loss and accuracy graphs provided in the **Results.png**.
 
 ## GitHub Pages
-For documentation, visit: [yourusername.github.io/GenderDetermination_DeepLearning](https://yourusername.github.io/GenderDetermination_DeepLearning)
+For documentation, visit: https://nabeeljadoon.github.io/GenderDetermination_DeepLearning/
 
 ## License
 This project is open-source and licensed under **MIT License**.

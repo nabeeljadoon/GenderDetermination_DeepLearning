@@ -61,6 +61,16 @@ This project explores **gender classification** using **deep learning techniques
 ## GitHub Pages
 For documentation, visit: https://nabeeljadoon.github.io/GenderDetermination_DeepLearning/
 
+Please cite our work as:
+@misc{Jadoon2025GenderDL,
+  author = {Jadoon, Nabeel Ahmad Khan and Dharmasena, P. H. Amindu and Wongpromkal, Nutthapong},
+  title = {Gender Determination Using Deep Learning: Classification of Eye Morphometry Using VGG-19},
+  year = {2025},
+  url = {https://github.com/YOUR-USERNAME/GenderDetermination_DeepLearning},
+  note = {GitHub Repository}
+}
+
+
 ## License
 This project is open-source and licensed under **MIT License**.
 
